@@ -6,4 +6,4 @@ If you want to add me as your friend in the CSES platform my nickname is goncalo
 
 |       Domain        |    Problems Solved   |
 |:-------------------:|:--------------------:|
-| Introductory Problems |        12/19       |
+| Introductory Problems |        13/19       |
