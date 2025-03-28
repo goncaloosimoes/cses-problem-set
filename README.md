@@ -7,4 +7,4 @@ If you want to add me as your friend in the CSES platform my nickname is goncalo
 |       Domain        |    Problems Solved   |
 |:-------------------:|:--------------------:|
 | Introductory Problems |        15/19       |
-| Sorting and Searching |        1/35       |
+| Sorting and Searching |        2/35       |
